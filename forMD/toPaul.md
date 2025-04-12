@@ -14,9 +14,10 @@ mkdir -p cmt fa pssm  pdb json
 ```
 ### 2. Upload all alignment files and code files into pssm_cmt folder.
 - Go to the folder created in last step in Mobaxterm.
+  
 ![](https://raw.githubusercontent.com/jinhuili-lab/personal_image_bed/master/img2025/202504112340368.png)
 - Drag the file to the area in the picture.
-- 
+  
 ![](https://raw.githubusercontent.com/jinhuili-lab/personal_image_bed/master/img2025/202504112342441.png)
 ### 3. Convert alignment(.aln) to fasta(.fa) file.
 - Copy all the bellow content  and  paste at the command line from local folder, press enter.
